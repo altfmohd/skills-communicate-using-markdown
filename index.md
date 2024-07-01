@@ -2,3 +2,6 @@
 ## COMPUTER SCIENCE GRADUATE
 ### KMEA ENGINEERING COLLEGE
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var MyVar = "Cristiano";
+```
