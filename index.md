@@ -5,3 +5,6 @@
 ``` javascript
 var MyVar = "Cristiano";
 ```
+- [ ] KING
+- [ ] GOAT
+- [x] GOD
